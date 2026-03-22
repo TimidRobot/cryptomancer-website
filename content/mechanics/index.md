@@ -10,7 +10,7 @@ title = "Game Mechanics"
 
 ![Machinery illustration](/img/mechanics.jpg)
 
-Cryptomancer is a full role-playing game, complete with its own unique game
+Cryptomancer™ is a full role-playing game, complete with its own unique game
 mechanics using six-sided and ten-sided dice. Characters in the game are
 composed of skills, spells, and talents that emphasize the realms of stealth,
 espionage, and creative problem solving (as well as creative problem creating).

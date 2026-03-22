@@ -33,6 +33,6 @@ googleAnalytics = 'UA-81260339-1'
     weight = 6
 
 [params]
-  copyright = '©2015, ©2016 Chad Walker. All Rights Reserved.'
+  copyright = '©2015, 2016 Land of NOP LLC. All Rights Reserved. Cryptomancer is a trademark of Land of NOP LLC.'
   description = 'a tabletop role-playing game made for hackers, by hackers'
   themeColor = 'theme-base-0c'

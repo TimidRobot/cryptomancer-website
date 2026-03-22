@@ -1,6 +1,6 @@
 # cryptomancer-website
 
-Website source for [Cryptomancer RPG](https://cryptorpg.com/): a tabletop
+Website source for [Cryptomancer™ RPG](https://cryptorpg.com/): a tabletop
 role-playing game made for hackers, by hackers
 
 
@@ -18,9 +18,14 @@ role-playing game made for hackers, by hackers
 
 ### Game content and website
 
-![© 2016 Chad Walker; All rights reserved](https://img.shields.io/badge/%C2%A9_2016_Chad%20Walker-All_rights_reserved-red?style=for-the-badge)
+![© 2015, 2016 Land of NOP LLC.; All rights reserved](https://img.shields.io/badge/%C2%A9_2016_Chad%20Walker-All_rights_reserved-red?style=for-the-badge)
 
-[`LICENSE`](LICENSE): © 2016 Chad Walker; All rights reserved.
+[`LICENSE`](LICENSE): © 2015, 2016 Land of NOP LLC.; All rights reserved.
+
+
+### Trademark
+
+Cryptomancer is a trademark of Land of NOP LLC.
 
 
 ### Development bash scripts

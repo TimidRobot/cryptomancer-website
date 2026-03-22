@@ -10,7 +10,7 @@ title = "Been There, Done That"
 
 ![Human, Dwarf, and Elf illustration](/img/been_there.jpg)
 
-Cryptomancer takes place in a fantasy setting very similar to most fantasy
+Cryptomancer™ takes place in a fantasy setting very similar to most fantasy
 settings you are accustomed to. This was by design. We kept things simple so
 gamers both seasoned and new can jump right in and start hacking things. We
 have made some subtle tweaks to fantasy norms, based on what we think fantasy
