@@ -1,5 +1,5 @@
 # vim: set tabstop=2 shiftwide=2:
-baseurl = 'http://cryptorpg.com'
+baseurl = 'https://cryptorpg.com'
 languageCode = 'en-us'
 title = 'Cryptomancer RPG'
 pluralizeListTitles = 'false'
