@@ -18,9 +18,11 @@ role-playing game made for hackers, by hackers
 
 ### Game content and website
 
-![© 2015, 2016 Land of NOP LLC.; All rights reserved](https://img.shields.io/badge/%C2%A9_2016_Chad%20Walker-All_rights_reserved-red?style=for-the-badge)
+![© 2015, 2016 Land of NOP LLC.; All rights reserved][copyright-badge]
 
 [`LICENSE`](LICENSE): © 2015, 2016 Land of NOP LLC.; All rights reserved.
+
+[copyright-badge]: https://img.shields.io/badge/%C2%A9_2015,_2016_Land_of_NOP_LLC.-All_rights_reserved-red?style=for-the-badge
 
 
 ### Trademark
