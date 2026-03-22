@@ -1,4 +1,10 @@
 +++
+aliases = [
+    "/cryptomancy/clear-text/",
+    "/cryptomancy/encrypted/",
+    "/cryptomancy/intro/",
+    "/cryptomancy/network_warfare/",
+]
 title = "Cryptomancy"
 +++
 

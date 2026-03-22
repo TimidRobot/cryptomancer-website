@@ -1,4 +1,10 @@
 +++
+aliases = [
+    "/setting/been_there/",
+    "/setting/dwarves/",
+    "/setting/elves/",
+    "/setting/humans/",
+]
 title = "Been There, Done That"
 +++
 

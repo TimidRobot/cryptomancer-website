@@ -1,4 +1,7 @@
 +++
+aliases = [
+    "/contact/contact",
+]
 title = "Contact info/Social Media"
 +++
 

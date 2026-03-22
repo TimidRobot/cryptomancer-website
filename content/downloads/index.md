@@ -1,4 +1,7 @@
 +++
+aliases = [
+    "/downloads/sheets/",
+]
 title = "Downloads"
 +++
 

@@ -1,4 +1,10 @@
 +++
+aliases = [
+    "/mechanics/intro/",
+    "/mechanics/same_roll/",
+    "/mechanics/trivial/",
+    "/mechanics/tactical_vs_strategic/",
+]
 title = "Game Mechanics"
 +++
 
