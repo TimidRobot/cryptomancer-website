@@ -6,7 +6,6 @@ role-playing game made for hackers, by hackers
 
 ## Site development
 
-Key technologies:
 - [Hugo][hugo]: _The world's fastest framework for building websites_
   - [spf13/hyde][hyde]: _Port of Mdo's excellent theme to Hugo_
 
@@ -21,7 +20,7 @@ Key technologies:
 
 ![© 2016 Chad Walker; All rights reserved](https://img.shields.io/badge/%C2%A9_2016_Chad%20Walker-All_rights_reserved-red?style=for-the-badge)
 
-**[`LICENSE`](LICENSE): © 2016 Chad Walker; All rights reserved.**
+[`LICENSE`](LICENSE): © 2016 Chad Walker; All rights reserved.
 
 
 ### Development bash scripts
