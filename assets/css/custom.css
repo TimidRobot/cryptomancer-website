@@ -1,0 +1,54 @@
+body {
+  background-color: #000;
+    color: #888;
+}
+
+h1, h2 {
+  font-family: monospace;
+  color: #eee;
+}
+
+strong {
+  color: #999;
+}
+
+
+/* Tables */
+table {
+  border: 1px solid #e5e5e5;
+}
+td,
+th {
+  border: 1px solid #555;
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: #1a1a1a;
+}
+
+img {
+  width: 100%;
+}
+
+/* About section */
+.sidebar-about h1 {
+  font-family: monospace, sans-serif;
+  font-size: 1.5rem;
+}
+
+
+/* Sticky sidebar
+ *
+ * Add the `sidebar-sticky` class to the sidebar's container to affix it the
+ * contents to the top of the sidebar in tablets and up.
+ */
+
+@media (min-width: 48em) {
+  .sidebar-sticky {
+    position: absolute;
+    right:  1rem;
+    left:   1rem;
+    top: 1rem;
+  }
+}
+

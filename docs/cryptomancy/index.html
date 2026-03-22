@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<head>
+  <link href="https://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.158.0">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Cryptomancy &middot; Cryptomancer RPG</title>
+  <meta name="description" content="" />
+
+  
+  
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="/css/print.min.46d9bcbd80937d55db06b7034dfed7fc48b2bfb13e535dd9eac5581bfbaa8ddf.css"
+      media="print"
+      integrity="sha256-Rtm8vYCTfVXbBrcDTf7X/Eiyv7E&#43;U13Z6sVYG/uqjd8="
+      crossorigin="anonymous" />
+  
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="/css/hyde-bundle.min.c71ff05f4c9432a3c483be2a36a1ca2159df961a826f12a8ddff099579b3f800.css"
+      media="all"
+      integrity="sha256-xx/wX0yUMqPEg74qNqHKIVnflhqCbxKo3f8JlXmz&#43;AA="
+      crossorigin="anonymous" />  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
+
+
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  
+</head>
+
+  <body class="theme-base-0c ">
+  <aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="http://cryptorpg.com/"><h1>Cryptomancer RPG</h1></a>
+      <p class="lead">
+       a tabletop role-playing game made for hackers, by hackers 
+      </p>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        <li><a href="http://cryptorpg.com/">Home</a> </li>
+        <li><a href="/cryptomancy/"> Cryptomancy </a></li><li><a href="/setting/"> Game Setting </a></li><li><a href="/mechanics/"> Game Mechanics </a></li><li><a href="/downloads/"> Downloads </a></li><li><a href="/contact/"> Contact </a></li><li><a href="http://www.drivethrurpg.com/product/186678/Cryptomancer"> BUY NOW </a></li>
+      </ul>
+    </nav>
+
+    <p>©2015, ©2016 Chad Walker. All Rights Reserved.</p>
+  </div>
+</aside>
+
+    <main class="content container">
+    <div class="post">
+  <h1>Cryptomancy</h1>
+
+  <h2 id="shards-and-shardnets">Shards and Shardnets</h2>
+<p><img src="/img/shards.jpg" alt="Shard use illustration"></p>
+<p>Shards are magical gems that allow mortals to interact with the Shardscape.
+Think of them as mobile endpoints, like smart phones. Small shards that are
+split from a single, larger shard form a shardnet: a private network where each
+mortal holding one of these shards can communicate with each other silently and
+instantly, regardless of the distance between them. However, each shardnet
+operates as if each of the endpoints were connected by a hub. That means that
+everyone using the shardnet can see everyone else’s communications. Achieving
+privacy and security over a shardnet requires cryptomancy.</p>
+<h2 id="clear-text-messages">Clear-Text Messages</h2>
+<table>
+  <thead>
+      <tr>
+          <th><img src="/img/alice.jpg" alt="Alice"></th>
+          <th>Alice holds a shard and thinks the message: &ldquo;Hello, Bob.&rdquo;</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><img src="/img/bob.jpg" alt="Bob"></td>
+          <td>Bob, holding a shard, sees the message: &ldquo;Hello, Bob.&rdquo;</td>
+      </tr>
+      <tr>
+          <td><img src="/img/chuck.jpg" alt="Chuck"></td>
+          <td>Chuck, an eavesdropper, holds a shard and sees the message: &ldquo;Hello, Bob.&rdquo;</td>
+      </tr>
+  </tbody>
+</table>
+<p>Alice, Bob, and Chuck are part of the same shardnet. If Alice holds her shard,
+closes her eyes, and thinks “Hello Bob,” that message will echo throughout the
+shardnet in clear-text (that is, language that is perfectly legible to anyone
+and everyone). This means that anyone with one of the shards will be able to
+intercept the message. Though Alice intended her message to be received by Bob,
+Chuck was also able to receive the message. That might be OK if the message is
+“Hello Bob.” However, if the message is “Watch out, Chuck is working for the
+enemy,” this might be problematic.</p>
+<h2 id="encrypted-messages">Encrypted Messages</h2>
+<table>
+  <thead>
+      <tr>
+          <th><img src="/img/alice_hand.jpg" alt="Alice injecting key"></th>
+          <th>Alice holds a shard, raises her other hand, and injects the key phrase: &ldquo;Gallows Goblets Gold.&rdquo;</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><img src="/img/alice.jpg" alt="Alice"></td>
+          <td>She then lowers her hand, and thinks her message: &ldquo;Hello Bob.&rdquo;</td>
+      </tr>
+      <tr>
+          <td><img src="/img/bob.jpg" alt="Chuck"></td>
+          <td>Bob, who knows the keyphrase &ldquo;Gallows Goblets Gold&rdquo; sees the message: &ldquo;Hello, Bob.&rdquo;</td>
+      </tr>
+      <tr>
+          <td><img src="/img/chuck.jpg" alt="Bob"></td>
+          <td>Chuck, who does not know the keyphrase, sees only jumbled cypher-text</td>
+      </tr>
+  </tbody>
+</table>
+<p>Luckily, Alice and Bob previously agreed on a shared keyphrase&hellip; a string of
+words that encrypt the clear-text into cipher-text (that is, unintelligible
+nonsense). The cipher-text can only be decrypted (transformed back into
+clear-text) by someone who knows this keyphrase. Alice raises her hand to her
+shard and thinks the keyphrase. She then lowers her hand, and thinks the
+message “Watch out, Chuck is working for the enemy.” Bob, who knows the
+keyphrase, receives the message loud and clear. Chuck, however, only receives
+confusing cipher-text. He now knows that Alice and Bob are keeping a secret
+from him, but does not know what that secret is.</p>
+<h2 id="network-warfare">Network Warfare</h2>
+<p>This very simple example is just the beginning.</p>
+<p>Cryptomancer’s fantasy infrastructure is easily taught to players with no IT
+background, but complex enough to provide even seasoned security-heads a
+playground to test their offensive and defensive chops. The game&rsquo;s
+infrastructure sections cover the following:</p>
+<ul>
+<li>Symmetric and asymmetric encryption schemes to ensure privacy, verify one’s
+identity, and securely exchange keyphrases over hostile networks full of
+eavesdroppers.</li>
+<li>A public shardnet that functions like the Internet: a vast fount of
+knowledge, a gathering ground for distributed communities, and a veritable
+warzone.</li>
+<li>Industrial control systems composed of cryptogears receiving instructions
+from remote administrators, and steam-powered automata serving as firewalls
+and proxies between hostile shardnets.</li>
+<li>Techniques to enumerate shardnets, investigate breaches, geolocate users,
+scry through shards (as if they were IP cameras), and more.</li>
+</ul>
+
+</div>
+
+
+    </main>
+
+    
+      
+    
+  </body>
+</html>

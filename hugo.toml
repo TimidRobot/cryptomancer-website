@@ -1,0 +1,38 @@
+# vim: set tabstop=2 shiftwide=2:
+baseurl = 'http://cryptorpg.com'
+languageCode = 'en-us'
+title = 'Cryptomancer RPG'
+pluralizeListTitles = 'false'
+theme = 'hyde'
+googleAnalytics = 'UA-81260339-1'
+
+[menus]
+  [[menus.main]]
+    name = 'Cryptomancy'
+    pageRef = '/cryptomancy/'
+    weight = 1
+  [[menus.main]]
+    name = 'Game Setting'
+    pageRef = '/setting/'
+    weight = 2
+  [[menus.main]]
+    name = 'Game Mechanics'
+    pageRef = '/mechanics/'
+    weight = 3
+  [[menus.main]]
+    name = 'Downloads'
+    pageRef = '/downloads/'
+    weight = 4
+  [[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact/'
+    weight = 5
+  [[menus.main]]
+    name = 'BUY NOW'
+    url = 'http://www.drivethrurpg.com/product/186678/Cryptomancer'
+    weight = 6
+
+[params]
+  copyright = '©2015, ©2016 Chad Walker. All Rights Reserved.'
+  description = 'a tabletop role-playing game made for hackers, by hackers'
+  themeColor = 'theme-base-0c'

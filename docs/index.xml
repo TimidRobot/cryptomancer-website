@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kill all the Orcs, Hack all the Things on Cryptomancer RPG</title>
+    <link>http://cryptorpg.com/</link>
+    <description>Recent content in Kill all the Orcs, Hack all the Things on Cryptomancer RPG</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://cryptorpg.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Been There, Done That</title>
+      <link>http://cryptorpg.com/setting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://cryptorpg.com/setting/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://cryptorpg.com/img/been_there.jpg&#34; alt=&#34;Human, Dwarf, and Elf illustration&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cryptomancer takes place in a fantasy setting very similar to most fantasy&#xA;settings you are accustomed to. This was by design. We kept things simple so&#xA;gamers both seasoned and new can jump right in and start hacking things. We&#xA;have made some subtle tweaks to fantasy norms, based on what we think fantasy&#xA;races would look like in a &lt;em&gt;connected&lt;/em&gt; fantasy world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;elves---sylvan-parasites&#34;&gt;Elves - Sylvan Parasites&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://cryptorpg.com/img/elves.jpg&#34; alt=&#34;Elf illustration&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact info/Social Media</title>
+      <link>http://cryptorpg.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://cryptorpg.com/contact/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:cryptomancer.actual@gmail.com&#34;&gt;&lt;a href=&#34;mailto:cryptomancer.actual@gmail.com&#34;&gt;cryptomancer.actual@gmail.com&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Reddit: &lt;a href=&#34;https://m.reddit.com/r/Cryptomancer/&#34;&gt;r/Cryptomancer&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Also see &lt;a href=&#34;https://www.drivethrurpg.com/en/publisher/9837/land-of-nop-llc&#34;&gt;DriveThruRPG - Land of NOP LLC&lt;/a&gt; for other titles&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Cryptomancy</title>
+      <link>http://cryptorpg.com/cryptomancy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://cryptorpg.com/cryptomancy/</guid>
+      <description>&lt;h2 id=&#34;shards-and-shardnets&#34;&gt;Shards and Shardnets&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://cryptorpg.com/img/shards.jpg&#34; alt=&#34;Shard use illustration&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Shards are magical gems that allow mortals to interact with the Shardscape.&#xA;Think of them as mobile endpoints, like smart phones. Small shards that are&#xA;split from a single, larger shard form a shardnet: a private network where each&#xA;mortal holding one of these shards can communicate with each other silently and&#xA;instantly, regardless of the distance between them. However, each shardnet&#xA;operates as if each of the endpoints were connected by a hub. That means that&#xA;everyone using the shardnet can see everyone else’s communications. Achieving&#xA;privacy and security over a shardnet requires cryptomancy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Downloads</title>
+      <link>http://cryptorpg.com/downloads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://cryptorpg.com/downloads/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://cryptorpg.com/character_sheet.pdf&#34;&gt;Character Sheet&lt;/a&gt; [PDF, 77 KB]&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://cryptorpg.com/character_sheet-fillable.pdf&#34;&gt;Character Sheet - Fillable&lt;/a&gt; [PDF, 116 KB]&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://cryptorpg.com/safehouse_sheet.pdf&#34;&gt;Safehouse Sheet&lt;/a&gt; [PDF, 86 KB]&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://cryptorpg.com/safehouse_sheet-fillable.pdf&#34;&gt;Safehouse Sheet - Fillable&lt;/a&gt; [PDF, 124 KB]&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://cryptorpg.com/pregen_sheets.pdf&#34;&gt;Pregenerated Character Sheets&lt;/a&gt; [PDF, 406 KB]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Game Mechanics</title>
+      <link>http://cryptorpg.com/mechanics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://cryptorpg.com/mechanics/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://cryptorpg.com/img/mechanics.jpg&#34; alt=&#34;Machinery illustration&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cryptomancer is a full role-playing game, complete with its own unique game&#xA;mechanics using six-sided and ten-sided dice. Characters in the game are&#xA;composed of skills, spells, and talents that emphasize the realms of stealth,&#xA;espionage, and creative problem solving (as well as creative problem creating).&#xA;Don&amp;rsquo;t worry, we also got the traditional fantasy stuff covered, like killing&#xA;orcs and chucking fireballs.&lt;/p&gt;&#xA;&lt;h2 id=&#34;same-roll-no-matter-what&#34;&gt;Same Roll, No Matter What&lt;/h2&gt;&#xA;&lt;p&gt;When a player has her character do something that is dramatic (that is, the&#xA;outcome matters to the story), that player will probably have to chuck some&#xA;dice, the results of which will determine the severity of that the character’s&#xA;success or failure. We call this a skill-check. Of course, skill-checks&#xA;manifest in many ways:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
