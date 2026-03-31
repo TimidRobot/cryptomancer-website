@@ -1,7 +1,9 @@
 # cryptomancer-website
 
-Website source for [Cryptomancer™ RPG](https://cryptorpg.com/): a tabletop
-role-playing game made for hackers, by hackers
+Website source for [Cryptomancer™ RPG][website]: a tabletop role-playing game
+made for hackers, by hackers
+
+[website]: https://timidrobot.github.io/cryptomancer-website/
 
 
 ## Site development
