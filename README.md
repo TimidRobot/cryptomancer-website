@@ -8,8 +8,14 @@ made for hackers, by hackers
 
 ## Site development
 
-- [Hugo][hugo]: _The world's fastest framework for building websites_
-  - [spf13/hyde][hyde]: _Port of Mdo's excellent theme to Hugo_
+- Software used
+  - [Hugo][hugo]: _The world's fastest framework for building websites_
+    - [spf13/hyde][hyde]: _Port of Mdo's excellent theme to Hugo_
+- Development Bash scripts
+  - [`dev/build_site.sh`](dev/build_site.sh): Generates static site to `docs/`
+  - [`dev/serve_site.sh`](dev/serve_site.sh): Serve site locally for
+    development
+- GitHub Pages serves `docs/`
 
 [hugo]: https://gohugo.io/
 [hyde]: https://github.com/spf13/hyde
@@ -32,7 +38,7 @@ made for hackers, by hackers
 Cryptomancer is a trademark of Land of NOP LLC.
 
 
-### Development bash scripts
+### Development Bash scripts
 
 [![CC0 1.0 license button][cc-zero-png]][cc-zero]
 
